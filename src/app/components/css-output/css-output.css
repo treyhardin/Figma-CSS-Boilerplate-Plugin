@@ -1,0 +1,22 @@
+.css-output {
+    border-radius: var(--border-radius-med);
+    text-align: left;
+    background-color: var(--grey);
+    padding: var(--size-xsmall);
+}
+
+.css-output code {
+    display: block;
+}
+/* 
+pre {
+    word-wrap: normal;
+    white-space: pre;
+    overflow: auto;
+}
+
+pre > .code-line {
+    white-space: break-spaces;
+    display: block;
+    word-wrap: normal;
+} */
